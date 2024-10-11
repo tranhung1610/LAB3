@@ -1,6 +1,19 @@
-body{
+.mylist{
+    margin: 0 auto;
+    padding: 8px 24px;
+    width: 500px;
+    font-size: 30px;
+    border: 1px solid yellow;
+    background-color: yellow;
+    box-shadow: 0 0 10px 2px black;
+
+}
+.mylist body{
     background-color: yellow;
 }
-P{
+.mylist center{
   text-align: center;    
+}
+.mylist ol {
+  color: red; 
 }
